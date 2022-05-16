@@ -4,12 +4,14 @@ This project is fetch data from Taiwan PTX with API using Retrofit
 >API Require & Library
 >
 >>okhttp  
->>Retrofit  document:https://square.github.io/retrofit/
->>PTX html verification:https://motc-ptx-api-documentation.gitbook.io/motc-ptx-api-documentation/api-shi-yong/hmac
+>>Retrofit  document:https://square.github.io/retrofit/  
+>>PTX html verification:https://motc-ptx-api-documentation.gitbook.io/motc-ptx-api-documentation/api-shi-yong/hmac  
 
 >UI and Java Code
->>UI：activity_main.xml
->>Java：MainActivity.java、HMAC_SHA1.java（used to encode the signature）,Viewpoint.java(Json object),APIService.java(Interface)
+>>UI：activity_main.xml  
+>>Java：MainActivity.java、HMAC_SHA1.java（used to encode the signature）,Viewpoint.java(Json object),APIService.java(Interface)  
+
+![image](https://user-images.githubusercontent.com/41913354/168557860-85aac20c-7421-49b4-bc77-294fa17ea99e.png)
 
 ## AndroidManifest.xml
 ```
